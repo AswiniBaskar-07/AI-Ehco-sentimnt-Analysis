@@ -1,0 +1,25 @@
+## Project Overview
+
+AI Echo is an end-to-end Sentiment Analysis system built to analyze ChatGPT user reviews and classify them into Positive, Neutral, or Negative categories.
+
+This project demonstrates complete NLP workflow including:
+
+- Data Preprocessing & Text Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering using TF-IDF
+- Machine Learning Models:
+  - Logistic Regression
+  - Random Forest
+  - Naive Bayes
+  - Support Vector Machine (SVM)
+- Deep Learning Model:
+  - LSTM (Long Short-Term Memory)
+- Model Evaluation using:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-Score
+  - Confusion Matrix
+- Streamlit Web Application Deployment
+
+The system provides real-time sentiment prediction with color-based visualization for improved user experience.
